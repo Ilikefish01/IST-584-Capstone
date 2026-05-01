@@ -37,7 +37,7 @@ The watcher monitors a target folder using Python’s `watchdog` library. When a
 The watched folder is set in `main.py`:
 
 ```python
-watch_path = Path(r"C:\Users\dummy\Desktop\dummyFolder").resolve()
+WATCH_PATH = Path(r"C:\Users\dummy\Desktop\dummyFolder").resolve()
 ```
 
 Change this path if you want to monitor a different folder.
@@ -178,7 +178,7 @@ model.py
 Open `main.py` and update the watched folder path if needed:
 
 ```python
-watch_path = Path(r"C:\Users\dummy\Desktop\dummyFolder").resolve()
+WATCH_PATH = Path(r"C:\Users\dummy\Desktop\dummyFolder").resolve()
 ```
 
 The folder must exist before starting the watcher.
