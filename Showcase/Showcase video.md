@@ -3,6 +3,7 @@
 ## Showcase 1: Benign and Anomalous Runs
 
 This demo video shows two complete runs of the ransomware watcher prototype.
+https://drive.google.com/file/d/1UE6Yr8K2HCCz7nfiEg_lM_0k96DqVK-9/view?usp=sharing
 
 ### 1. Benign Run
 
@@ -51,6 +52,7 @@ The screenshots provide additional evidence of:
 ## Showcase 2: Ransomware Runs
 
 This video demonstrates how the prototype responds during ransomware-style behavior.
+https://drive.google.com/file/d/1EHuNRmb3uvMtMd4i_0OkZYmcnn6Q0SSd/view?usp=sharing
 
 The video shows the following sequence:
 
