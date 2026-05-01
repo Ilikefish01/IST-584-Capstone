@@ -1,7 +1,0 @@
-label,detected,files_changed,files_before_detection,time_to_detect_sec,max_probability,entropy,uniform_dist,write_burst,dir_spread,rename_burst,suspicious_rename_target,header_mismatch,files_per_sec,extension_change_ratio,entropy_mean,entropy_max,uniform_mean,files_per_sec_max,write_burst_seen,dir_spread_seen,rename_burst_seen,suspicious_rename_target_seen,extension_change_ratio_max,header_mismatch_count
-0,0,26,0,-1,0.6428,0.6265,1.6143,1,1,0,0,0,2.6,0.0,4.5517,6.0423,1.7164,2.6,1,1,0,0,0.0,0
-0,0,0,0,-1,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0
-1,1,8,6,0.145,0.9999,0.9976,0.1987,0,0,1,1,1,0.7,1.0,7.9819,7.9835,0.1989,0.8,0,0,1,1,1.0,8
-1,1,9,6,0.145,1.0,0.9982,0.2007,1,0,1,1,1,0.9,1.0,7.9833,7.9854,0.1928,0.9,1,0,1,1,1.0,9
-1,1,2,1,0.0,0.9988,0.9979,0.1958,0,0,0,1,1,0.2,1.0,7.9837,7.9842,0.198,0.2,0,0,0,1,1.0,2
-1,1,2,1,0.001,0.9988,0.9978,0.2065,0,0,0,1,1,0.2,1.0,7.9821,7.9824,0.2092,0.2,0,0,0,1,1.0,2
