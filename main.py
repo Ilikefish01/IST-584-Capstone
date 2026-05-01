@@ -7,8 +7,7 @@ sys.path.append(str(Path(__file__).parent))
 from watchdog.observers import Observer
 from watcher import DetectorHandler
 
-WATCH_PATH = Path(r"C:\Users\kritt\Desktop\PSU\Term 8\IST 584\TestFolder").resolve()
-
+WATCH_PATH = Path(r"C:\Users\dummy\Desktop\dummyFolder").resolve()
 
 def main():
     if not WATCH_PATH.exists():
